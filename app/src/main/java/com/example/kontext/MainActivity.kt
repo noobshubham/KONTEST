@@ -17,9 +17,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        getData()
+        // getData()
     }
 
+    /*
     private fun getData() {
         val kontext: Call<KontextData> = KontextService.kontextInstance.getKontext()
         kontext.enqueue(object : Callback<KontextData> {
@@ -38,5 +39,7 @@ class MainActivity : AppCompatActivity() {
 
         })
 
+
     }
+     */
 }
