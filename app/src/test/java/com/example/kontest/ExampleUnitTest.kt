@@ -1,4 +1,4 @@
-package com.example.kontext
+package com.example.kontest
 
 import org.junit.Test
 

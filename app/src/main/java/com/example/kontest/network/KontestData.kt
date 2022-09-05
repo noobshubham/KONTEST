@@ -1,6 +1,6 @@
-package com.example.kontext.network
+package com.example.kontest.network
 
-data class KontextData(
+data class KontestData(
     val name: String,
     val url: String,
     val start_time: String,

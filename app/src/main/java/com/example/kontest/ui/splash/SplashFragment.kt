@@ -1,4 +1,4 @@
-package com.example.kontext.ui.splash
+package com.example.kontest.ui.splash
 
 import android.os.Bundle
 import android.os.Handler
@@ -7,7 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.example.kontext.R
+import com.example.kontest.R
 
 class SplashFragment : Fragment() {
 
@@ -17,7 +17,7 @@ class SplashFragment : Fragment() {
     ): View? {
 
         Handler().postDelayed({
-            findNavController().navigate(R.id.action_splashFragment_to_kontextFragment)
+            findNavController().navigate(R.id.action_splashFragment_to_kontestFragment)
         }, 2000)
 
         // Inflate the layout for this fragment
