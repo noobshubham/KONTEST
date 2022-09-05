@@ -1,4 +1,4 @@
-package com.example.kontext
+package com.example.kontext.ui.kontext
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
@@ -7,7 +7,8 @@ import com.example.kontext.network.KontextData
 
 enum class KontextApiStatus { LOADING, ERROR, DONE }
 
-class MainViewModel : ViewModel() {
+class KontextViewModel : ViewModel() {
+    // TODO: Implement the ViewModel
 
     private val _status = MutableLiveData<KontextApiStatus>()
     val status: LiveData<KontextApiStatus> = _status

@@ -6,7 +6,12 @@
         <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/drawable/ic_hourglass_end.xml" value="0.1945" />
         <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/drawable/ic_round_arrow_circle_down_24.xml" value="0.1945" />
         <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/layout/kontext_cardview.xml" value="0.18" />
+        <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/layout/fragment_ad_mob.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/layout/fragment_kontext.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/layout/fragment_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/layout/fragment_maps.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/layout/fragment_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/shubham/AndroidStudioProjects/KONTEXT/app/src/main/res/layout/kontext_cardview.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
